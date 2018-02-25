@@ -7,6 +7,8 @@ end
 
 gem 'grape'
 
+gem 'poltergeist'
+
 gem 'rack-cors', :require => 'rack/cors'
 gem 'grape-swagger'
 gem 'grape-swagger-rails'
